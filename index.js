@@ -41,7 +41,7 @@ const betweenFiveAndTwenty = (num) => {
 const sumOfThreeOrFive = () => {
   let i = 0;
   let sum = 0;
-  while (i != 1000) {
+  while (i != 999) {
     i++;
     if (i % 3 === 0) {
       sum += i;
